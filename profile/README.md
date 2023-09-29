@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="lien_vers_votre_logo" alt="Logo de l'organisation">
+  <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" alt="Logo de l'organisation">
 </p>
 
 ## 📖 À Propos de l'Organisation
