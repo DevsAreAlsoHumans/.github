@@ -10,11 +10,11 @@
 
 ## 📖 À Propos de l'Organisation
 
-L'organisation "DevsAreAlsoHumans" est un espace dédié aux développeurs qui reconnaissent l'importance de l'équilibre entre le travail et la vie personnelle. Nous mettons l'accent sur le bien-être, l'apprentissage, et la collaboration.
+L'organisation "DevsAreAlsoHumans" est un espace dédié aux développeurs. Nous mettons l'accent sur le bien-être, l'apprentissage, et la collaboration.
 
 ## 🚀 Objectifs
 
-Notre objectif principal est de créer une communauté inclusive et bienveillante pour les développeurs de tous niveaux. Nous encourageons l'échange de connaissances, la collaboration sur des projets passionnants, et le développement personnel et professionnel.
+Notre objectif principal est de créer une communauté bienveillante pour les développeurs de tous niveaux. Nous encourageons l'échange de connaissances, la collaboration sur des projets passionnants, et le développement personnel et professionnel.
 
 ## 💡 Comment Participer
 
