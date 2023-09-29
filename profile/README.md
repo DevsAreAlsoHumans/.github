@@ -1,7 +1,7 @@
 <h1 align="center">🌟 DevsAreAlsoHumans 🌟</h1>
 
 <p align="center">
-  Bienvenue dans l'organisation DevsAreAlsoHumans, où nous célébrons les développeurs en tant qu'êtres humains complets !
+  Bienvenue dans l'organisation DevsAreAlsoHumans
 </p>
 
 <p align="center">
