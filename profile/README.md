@@ -22,7 +22,7 @@ Vous pouvez rejoindre notre organisation en soumettant une demande d'adhésion. 
 
 - **Participer aux Projets** : Rejoignez les projets existants ou proposez les vôtres. La collaboration est la clé !
 
-- **Partager Votre Savoir** : Publiez des articles de blog, des tutoriels ou des ressources utiles.
+- **Partager Votre Savoir** : Vous pouvez donner des cours gratuit à la communauté sur notre Discord officiel.
 
 - **Discuter et Apprendre** : Rejoignez nos discussions sur divers sujets liés au développement.
 
@@ -30,7 +30,7 @@ Vous pouvez rejoindre notre organisation en soumettant une demande d'adhésion. 
 
 ## 📢 Communication
 
-- Discord : [Lien vers notre serveur Discord](lien_discord)
+- Discord : Sur demande (Privé)
 - Email : [contact@devsarealsohumans.org](mailto:contact@devsarealsohumans.org)
 - Réseaux Sociaux : Suivez-nous sur [Twitter](lien_twitter), [LinkedIn](lien_linkedin), etc.
 
@@ -44,6 +44,6 @@ Ce projet est sous licence [Licence XYZ](lien_vers_la_licence).
 
 ## ✍️ Auteurs
 
-- [Votre nom](lien_vers_votre_profil_github) - Fondateur de l'organisation
+- [Youghourta Merabtène](https://github.com/yugmerabtene) - Fondateur de l'organisation
 
 N'hésitez pas à explorer nos projets, à poser des questions et à contribuer. Bienvenue dans la communauté DevsAreAlsoHumans !
