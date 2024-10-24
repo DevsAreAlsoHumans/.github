@@ -38,10 +38,6 @@ Vous pouvez rejoindre notre organisation en soumettant une demande d'adhésion. 
 
 Nous suivons un [code de conduite](code_de_conduite.md) qui encourage un environnement respectueux et inclusif pour tous les membres. Assurez-vous de le lire et de le respecter.
 
-## 📜 Licence
-
-Ce projet est sous licence [Licence XYZ](lien_vers_la_licence).
-
 ## ✍️ Auteurs
 
 - [Youghourta Merabtène](https://github.com/yugmerabtene) - Fondateur de l'organisation
